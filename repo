@@ -1,0 +1,6 @@
+git clone https://github.com/mathskundali/mathskundali.git
+cd mathskundali
+# Copy in all the site files you downloaded
+git add .
+git commit -m "Initial Mathskundali site deployment"
+git push origin main
